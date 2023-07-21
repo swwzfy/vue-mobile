@@ -7,7 +7,7 @@ vue-mobile-template默认已加入 Rem布局适配，可在根目录 postcss.con
 #### 使用说明
 
 # 克隆项目
-git clone https://github.com/Coder-XiaoYi/vue-mobile-template.git
+git clone https://gitee.com/swwzfy/vue-mobile.git
 
 # 进入项目
 cd vue-mobile-template
